@@ -1,2 +1,1 @@
-# blog_lucasfavaro
-Meu blog da disciplina PPSI 2
+Blog criado no primeiro semestre de sistemas para internet agora continuando no segundo
