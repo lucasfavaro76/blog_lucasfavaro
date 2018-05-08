@@ -1,0 +1,91 @@
+article{
+    margin: 0% 3% 1% 3%;
+} 
+.article2{
+    padding: 2% 0% 0% 0%;
+    margin: 0% 3% 3% 3%;
+}
+section{
+    background-color: white;
+    margin: 0% 4% 1% 4%;
+    padding: 1% 0% 1% 0%;
+}
+body {
+    font-family: verdana;        
+    background-color: #297CFF;
+}
+
+h1{ 
+    text-align: right;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    padding: 3% 0% 3% 0%;
+
+}
+h2{
+    margin: 0% 0% 0% 3%;
+}
+h3{
+    margin: 0% 0% 0% 3%;
+}
+
+p{
+    text-align:justify;
+    text-indent:30px;
+    margin: 1% 3% 0% 3%;
+    font-size: 20px;
+}	
+a:hover{
+    text-align:right;
+    text-decoration: none;
+    color: turquoise;
+
+}
+.siteusado{
+    margin: 3% 3% 2% 3%;
+    text-decoration: none;
+}
+.siteusado2{
+    text-decoration: none;
+}
+
+.capa{
+    float: left;
+    height: 100%;
+    width: 50%;
+    margin: 0% 3% 1% 3%; 
+}
+.page{
+    margin: 1% 3% 1% 1%;
+    height: 25%;
+    width: 25%;
+    float: right;
+}
+.page2{
+    margin: 1% 3% 1% 1%;
+    height: 30%;
+    width: 30%;
+    float: right;
+}
+.page3{
+    margin: 1% 1% 1% 3%;
+    height: 40%;
+    width: 40%;
+    float: left;
+}
+.info{
+    float: left;
+    height: 40%;
+    width: 40%;
+    margin: 2% 2% 2% 3%;
+}
+.video{
+    float: left;
+    margin: 2% 2% 2% 3%;
+    height: 350px;
+    width: 500px;
+}
+.article3{
+    margin: 20% 3% 0% 3%;
+}
